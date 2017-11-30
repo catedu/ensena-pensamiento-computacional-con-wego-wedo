@@ -5,8 +5,8 @@
 
 Es sin duda la construcción que identifica este set de Lego. Se trata de un cocodrilo que tiene que abrir o cerrar la boca interactuando con el objeto que se encuentre en la boca. Aquí se trabaja:
 
-- la entrada de un sensor
-- la interacción que produce de forma real cerrando la boca
+- La entrada de un sensor
+- La interacción que produce de forma real cerrando la boca
 - Otras interacciones podrían ser de forma virtual: Personaje cocodrilo abriendo y cerrando la boca con sonido incorporado
 
 ## Construcción

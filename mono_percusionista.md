@@ -24,7 +24,7 @@ En el caso anterior se ha elegido el mono que sale en la biblioteca predetermina
 
 %accordion%Solución%accordion%
 
-El programa te lo puedes descargar [aquí gorila.sb2](gorila.sb2) con el objeto gorila y el sonido
+El programa te lo puedes descargar [aquí](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/gorila.sb2) con el objeto gorila y el sonido
 
 ![](img/gorila.png)
 

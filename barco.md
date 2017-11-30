@@ -24,7 +24,7 @@ Son dos programas, uno que mueve el motor y otro que gira el objeto del Scratch 
 Se podría hacer todo en un bucle
 
 ![](img/barco.png)
-[Te lo puedes descargar aquí ](barco_navegando.sb2) (sb2 - 274.12 <abbr lang="en" title="KiloBytes">KB</abbr>).
+[Te lo puedes descargar aquí ](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/barco_navegando.sb2) (sb2 - 274.12 <abbr lang="en" title="KiloBytes">KB</abbr>).
 
 %/accordion%
 

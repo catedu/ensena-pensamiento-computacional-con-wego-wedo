@@ -17,7 +17,7 @@ Nuestra propuesta es una interacción con sonido y con disfraz del objeto en Scr
 
 %accordion%Solución%accordion%
 
-Aquí el programa para descargar en formato Scratch [pajaro.sb2](pajaro.sb2)
+Aquí el programa para descargar en formato Scratch [pajaro.sb2](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/pajaro.sb2)
 
 ![](img/pajaro.png)
 

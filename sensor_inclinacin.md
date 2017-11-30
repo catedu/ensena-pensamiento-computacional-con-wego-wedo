@@ -17,7 +17,7 @@ Que se mueva la mariposa en función del sensor de inclinación de derecha a izq
 %accordion%Solución%accordion%
 
 - [En este enlace](https://scratch.mit.edu/projects/1789934/) pero algunos componentes no corresponden al equivalente castellano y hay que cambiarlos.
-- [En este archivo](mariposa-inclinacion.sb2) (sb2 - 49.74 <abbr lang="en" title="KiloBytes">KB</abbr>)., corregido lo anterior.
+- [En este archivo](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M3/mariposa-inclinacion.sb2) (sb2 - 49.74 <abbr lang="en" title="KiloBytes">KB</abbr>)., corregido lo anterior.
 - o aquí embebido:
 
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=1789934/?autostart=false" frameborder="0" allowfullscreen=""></iframe>

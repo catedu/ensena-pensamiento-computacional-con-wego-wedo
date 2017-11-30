@@ -17,7 +17,7 @@ Realizar un programa que al inclinar el sensor de inclinación, el león se leva
 
 %accordion%Solución%accordion%
 
-La solución te lo puedes [descargar aquí](leon.sb2) (sb2 - 61.34 <abbr lang="en" title="KiloBytes">KB</abbr>). y el código es el siguiente:
+La solución te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/leon.sb2) (sb2 - 61.34 <abbr lang="en" title="KiloBytes">KB</abbr>). y el código es el siguiente:
 
 ![](img/leon.png)
 se ha reducido la velocidad pues iba muy rápido y desmontaba la construcción
@@ -32,7 +32,7 @@ Esta propuesta de la página web [http://dunbit.blogspot.com.es/2014/12/aprende
 
 <img src="http://4.bp.blogspot.com/-tSDt9KhTxgE/VIrjVW3BdAI/AAAAAAAABhA/anBifZWH1t4/s1600/cabeza.png" width="320" height="253" />
 
-Te esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta, lanza un rugido y se vuelve a tumbar
+De esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta, lanza un rugido y se vuelve a tumbar
 
 %accordion%Solución%accordion%
 

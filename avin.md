@@ -17,7 +17,7 @@ Realizar el movimiento de un avión según el valor del sensor de desplazamiento
 
 %accordion%Solución%accordion%
 
-[Aquí te puedes descargar el programa](avion.sb2) (sb2 - 17650 <abbr lang="en" title="Bytes">B</abbr>).
+[Aquí te puedes descargar el programa](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/avion.sb2) (sb2 - 17650 <abbr lang="en" title="Bytes">B</abbr>).
 
 ![](img/avion.png)
 
