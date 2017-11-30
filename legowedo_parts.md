@@ -23,9 +23,11 @@ Las piezas más fundamentales que tiene este kit son:
 
 
 
-|<img src="https://wiki.scratch.mit.edu/w/images/Legowedohub.jpg" width="290" height="279" />|**Interface**:Conexión de los anteriores<br /><br />componentes al ordenador
+<img src="https://wiki.scratch.mit.edu/w/images/Legowedohub.jpg" width="290" height="279" />
 
-Conexión de los anteriores<br /><br />
+**Interface**:Conexión de los anteriores componentes al ordenador
+
+
 
 Fuentes [https://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set](https://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set)
 
