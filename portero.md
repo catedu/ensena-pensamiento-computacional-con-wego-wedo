@@ -24,9 +24,9 @@ Podemos introducir programación un poco más avanzada, con envío de mensajes d
 {% youtube %}https//www.youtube.com/watch?v=tRoNmoAuG2I{% endyoutube %}
 Ampliación: Poner un marcador (variable que contabilice los goles)
 
-<script type="text/javascript">var feedback16_93text = "Solución";</script><input type="button" name="toggle-feedback-16_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 [Aquí tienes el programa descargado](portero.sb2) (sb2 - 145643 <abbr lang="en" title="Bytes">B</abbr>). en formato sb2
 
@@ -39,19 +39,23 @@ La chica tiene el programa principal, y envía un mensaje:
 El mensaje es recogido por el objeto pelota que tiene este programa:
 
 ![](img/portero2-2.png)
+
+%/accordion%
+
 ## Otra propuesta
 
 Otra propuesta es que el portero se mueva según las fechas izquierda y derecha, de esta manera juegan dos jugadores
 
 {% youtube %}https//www.youtube.com/watch?v=7z6DfSoyKLA{% endyoutube %}
-<script type="text/javascript">var feedback18_93text = "Solución";</script><input type="button" name="toggle-feedback-18_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Aquí en vez de mover contínuamente el portero, es según las flechas:
 
 ![](img/portero4.png)
 El programa te lo puedes [descargar aquí](portero_PARA_2_PERSONA_copy.sb2) (sb2 - 145712 <abbr title="Bytes" lang="en">B</abbr>).
+
+%/accordion%
 
 ## Reflexión
 

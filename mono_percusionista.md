@@ -21,12 +21,11 @@ El mono toca el tambor si se le acerca el objeto de percusión, y además en el 
 En el caso anterior se ha elegido el mono que sale en la biblioteca predeterminado, pero también existe la opción de dibujar uno:
 
 {% youtube %}https//www.youtube.com/watch?v=SRSKdzvO3cI{% endyoutube %}
-<script type="text/javascript">var feedback9_93text = "Solución";</script><input type="button" name="toggle-feedback-9_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 El programa te lo puedes descargar [aquí gorila.sb2](gorila.sb2) con el objeto gorila y el sonido
 
 ![](img/gorila.png)
 
-
+%/accordion%

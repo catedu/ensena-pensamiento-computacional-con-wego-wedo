@@ -17,9 +17,8 @@ Idea de [Labdocente](http://labdocente.pe/2016/01/23/robotica-con-lego-wedo-el-s
 Bueno, el coche es diseño casero, sin complicaciones, pues aquí el objetivo es la sencillez en construcción para enfocar nuestra atención en la programación:
 
 ![](img/IMG_20160710_235424.jpg)
-<script type="text/javascript">var feedback16_93text = "Solución";</script><input type="button" name="toggle-feedback-16_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 La solución tiene que actuar el motor en tres casos:
 
@@ -30,14 +29,15 @@ La solución tiene que actuar el motor en tres casos:
 ![](img/contralagravedad.png)
 [Aquí si te lo quieres descargar](contralagravedad.sb2) (sb2 - 54.02 <abbr lang="en" title="KiloBytes">KB</abbr>).
 
+%/accordion%
+
 ## Propuesta
 
 El siguiente programa es muy avanzado, pero nos da idea de las posibilidades del sensor de inclinación Lego WeDo
 
 {% youtube %}https//www.youtube.com/watch?v=q6d9vtaSGgA{% endyoutube %}
-<script type="text/javascript">var feedback52_93text = "Solución";</script><input type="button" name="toggle-feedback-52_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 En el siguiente [enlace](https://scratch.mit.edu/projects/583760/) o bien [en este archivo](laberinto.sb2) (sb2 - 82651 <abbr lang="en" title="Bytes">B</abbr>).
 
@@ -46,3 +46,5 @@ En el siguiente [enlace](https://scratch.mit.edu/projects/583760/) o bien [en es
 El programa principal lo tiene la pelota que interactua con el laberinto de color azul, luego según el sensor de inclinación y según toque el color azul, cambia los valores de velocidad:
 
 ![](img/laberinto.png)
+
+%/accordion%

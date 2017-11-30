@@ -29,9 +29,9 @@ Corresponde al siguiente proyecto:
 Se nos ocurre que en vez que el gato suba o baje según la posición del ratón, que sea con nuestro sensor distancia de LEGO WEDO :
 
 {% youtube %}https//www.youtube.com/watch?v=tvcSWZ_IWMI{% endyoutube %}
-<script type="text/javascript">var feedback15_93text = "Solución";</script><input type="button" name="toggle-feedback-15_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 Entramos en el código y lo interpretamos, localizamos la parte responsable del movimiento del gato :
 
@@ -54,6 +54,8 @@ Solución y = 150-3*distancia
 La solución se puede [descargar aquí](fly.sb2) (sb2 - 145.97 <abbr lang="en" title="KiloBytes">KB</abbr>).
 
 Se puede seguir modificando el código, por ejemplo traducir los mensajes, subir las vidas ...
+
+%/accordion%
 
 
 

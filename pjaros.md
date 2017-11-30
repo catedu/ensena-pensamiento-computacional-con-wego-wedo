@@ -20,11 +20,13 @@ Lo podemos descargar[ aquí en pdf ](http://ro-botica.com/pdf/WeDo/Dancing%20Bir
 Que los pájaros bailen en un sentido y luego en otro
 
 {% youtube %}https//www.youtube.com/watch?v=OeQmYrrp61E{% endyoutube %}
-<script type="text/javascript">var feedback5_93text = "Solución";</script><input type="button" name="toggle-feedback-5_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 <img src="http://simonhaughton.typepad.com/.a/6a0120a530561e970b0133f1e1d6b9970b-800wi" height="140" width="206" />
+
+%/accordion%
 
 ## Otras propuestas
 

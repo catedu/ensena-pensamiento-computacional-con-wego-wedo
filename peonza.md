@@ -18,13 +18,15 @@ En formato [PDF en este enlace](http://ro-botica.com/pdf/WeDo/Smart%20Spinner.pd
 La peonza tiene que girar cuando la distancia sea tal que detecte que esta encima de una superficie
 
 {% youtube %}https//www.youtube.com/watch?v=aSZFzGtTetg{% endyoutube %}
-<script type="text/javascript">var feedback13_93text = "Solución";</script><input type="button" name="toggle-feedback-13_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 El valor de 5 es arbritario, es la distancia tal que detecte que hay una superficie para rodar la peonza
 
 ![](img/peonza.png)
+
+%/accordion%
+
 ## Otras propuestas
 
 Es que interactue con elementos del Scratch como vemos en el vídeo

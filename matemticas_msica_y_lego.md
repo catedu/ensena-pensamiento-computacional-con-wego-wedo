@@ -14,9 +14,7 @@ Fuente [LabDocente](http://labdocente.pe/2016/01/19/robotica-con-lego-wedo-el-se
 {% youtube %}https//www.youtube.com/watch?v=fhqpWvoDte0{% endyoutube %}
 **No te rias! no sé tocar el piano !!! (el autor)**
 
-<script type="text/javascript">var feedback46_93text = "Solución";</script><input type="button" name="toggle-feedback-46_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Aquí entran en juego las matemáticas:
 
@@ -34,14 +32,16 @@ Luego **A= 48 + 0.24*distancia**
 ![](img/piano.png)
 Fuente [LabDocente](http://labdocente.pe/2016/01/19/robotica-con-lego-wedo-el-sensor-de-distancia/)
 
+%/accordion%
+
 ## Fonografo
 
 Otra alternativa es construir un toca-discos de manera casera, para que los alumnos también comprendan el funcionamiento de los reproductores de vinilo
 
 {% youtube %}https//www.youtube.com/watch?v=yj-X21rgOuw{% endyoutube %}
-<script type="text/javascript">var feedback9_93text = "Solución";</script><input type="button" name="toggle-feedback-9_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 La construcción paso a paso está en la siguiente página [http://makezine.com/projects/make-35/lego-phonograph/](http://makezine.com/projects/make-35/lego-phonograph/)
 
+%/accordion%
