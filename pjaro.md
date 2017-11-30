@@ -1,0 +1,23 @@
+
+# Pájaro
+
+## Objetivo
+
+El principal objetivo de esta actividad es interactuar con el sensor de inclinación, su respuesta tiene que ser en algún objeto de Scratch pues esta construcción carece de motor.
+
+## Construcción
+
+Aquí lo tienes en [formato PDF](http://ro-botica.com/pdf/WeDo/Flying%20Bird.pdf) o en [Dropbox](https://www.dropbox.com/s/pqgn8qoujh9dvua/PAJARO.pdf?dl=0)
+
+## Propuesta
+
+Nuestra propuesta es una interacción con sonido y con disfraz del objeto en Scratch:
+
+{% youtube %}https//www.youtube.com/embed/Yb4DpYhfSaY{% endyoutube %}
+<script type="text/javascript">var feedback11_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-11_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
+### Retroalimentación
+
+Aquí el programa para descargar en formato Scratch [pajaro.sb2](pajaro.sb2)
+
+![](img/pajaro.png)
