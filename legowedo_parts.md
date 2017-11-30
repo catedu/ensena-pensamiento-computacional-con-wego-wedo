@@ -2,17 +2,25 @@
 # LegoWedo parts
 
 Las piezas más fundamentales que tiene este kit son:
-|<img src="https://wiki.scratch.mit.edu/w/images/Legomotor.jpg" width="285" height="203" />|** Motor**Permite que las cosasse muevan evidentemente ;)
+<img src="https://wiki.scratch.mit.edu/w/images/Legomotor.jpg" width="285" height="203" />
 
-Permite que las cosas
-|<img src="https://wiki.scratch.mit.edu/w/images/LEGO-WeDo-distance-sensor.jpg" width="284" height="197" />|**  Sensor de distancia.**detecta la distanciadel objeto que está frente a élvalores desde 0 a 100 <br />(máximo alrededor de 30 cm)el origen 0 está algo alejado
+** Motor**Permite que las cosas se muevan evidentemente ;)
 
-detecta la distancia
 
-valores desde 0 a 100 <br />(máximo alrededor de 30 cm)
-|<img src="https://wiki.scratch.mit.edu/w/images/Tiltsensor.jpg" width="284" height="197" />|**Sensor de inclinación**devuelve estos valores segúnla inclinación:<ul>- 0 = Sin inclinación, horizontal- 1 = Inclinado hacia abajo- 2 = inclinado hacia la derecha- 3 = inclinado hacia arriba- 4 = inclinado hacia la izquierda</ul>
+<img src="https://wiki.scratch.mit.edu/w/images/LEGO-WeDo-distance-sensor.jpg" width="284" height="197" />
 
-devuelve estos valores según
+**  Sensor de distancia.**detecta la distancia del objeto que está frente a él. Da valores desde 0 a 100, el máximo alrededor de 30 cm). El origen 0 está algo alejado
+
+
+<img src="https://wiki.scratch.mit.edu/w/images/Tiltsensor.jpg" width="284" height="197" 
+
+**Sensor de inclinación** Devuelve estos valores segúnla inclinación:<ul>
+- 0 = Sin inclinación, horizontal
+- 1 = Inclinado hacia abajo
+- 2 = inclinado hacia la derecha
+- 3 = inclinado hacia arriba
+- 4 = inclinado hacia la izquierda</ul>
+
 
 
 |<img src="https://wiki.scratch.mit.edu/w/images/Legowedohub.jpg" width="290" height="279" />|**Interface**:Conexión de los anteriores<br /><br />componentes al ordenador

@@ -1,5 +1,5 @@
 
-# M2 Construcciones
+# Construcciones
 
 En este módulo se tratarán las construcciones típicas de LEGO WEDO que recomienda la marca
 
