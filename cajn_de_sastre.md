@@ -11,24 +11,24 @@ Por ejemplo el **León Marino**:
 
 [Instrucciones de montaje](https://picasaweb.google.com/111228734087626356470/LEGOWeDoSeaLion?authuser=0&amp;authkey=Gv1sRgCNvRntfgusv7Pw&amp;feat=directlink)
 
-{% youtube %}https//www.youtube.com/embed/VJUYPehtW24{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=VJUYPehtW24{% endyoutube %}
 ## Pero aún hay más!!! 
 
 Unos cuantos ejemplos encontrados en Youtube:
 
-{% youtube %}https//www.youtube.com/embed/sUQTspHoIok{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/tvVpnfFNHF4{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/tqKhD5LG6kI{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/84MCVrS-DB8{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/r4r8spv_VF4{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/BqzA2y0A7bc{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/UPBR73Uld3g{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/0zYJZvPYUqo{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/PZ1ejFnzv4s{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/1wu45RO2yog{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/DX_9SrqXKQo{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/IZLybTBozis{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/vZ2WoC-eM3E{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/MnFe9YpT0-s{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/lfnbI-TA2XQ{% endyoutube %}
-{% youtube %}https//www.youtube.com/embed/WR6oFVDVx-s{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=sUQTspHoIok{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=tvVpnfFNHF4{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=tqKhD5LG6kI{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=84MCVrS-DB8{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=r4r8spv_VF4{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=BqzA2y0A7bc{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=UPBR73Uld3g{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=0zYJZvPYUqo{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=PZ1ejFnzv4s{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=1wu45RO2yog{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=DX_9SrqXKQo{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=IZLybTBozis{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=vZ2WoC-eM3E{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=MnFe9YpT0-s{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=lfnbI-TA2XQ{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=WR6oFVDVx-s{% endyoutube %}

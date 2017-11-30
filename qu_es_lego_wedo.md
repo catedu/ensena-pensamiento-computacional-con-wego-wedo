@@ -15,4 +15,4 @@ Es un set de LEGO® que permite la construcción de 12 diferentes actividades (y
 
 
 
-{% youtube %}https//www.youtube.com/embed/DfbThhnxfXg{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=DfbThhnxfXg{% endyoutube %}

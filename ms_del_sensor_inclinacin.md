@@ -11,7 +11,7 @@ Se le puede sacar mucho juego a este sencillo sensor
 
 Podemos hacer un coche, con el sensor de inclinación, y según su valor, actúe en contra de la inclinación, es decir que si se le inclina hacia bajo, el coche quiere subir, y al revés:
 
-{% youtube %}https//www.youtube.com/embed/W_NCek-rD28{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=W_NCek-rD28{% endyoutube %}
 Idea de [Labdocente](http://labdocente.pe/2016/01/23/robotica-con-lego-wedo-el-sensor-de-inclinacion/) 
 
 Bueno, el coche es diseño casero, sin complicaciones, pues aquí el objetivo es la sencillez en construcción para enfocar nuestra atención en la programación:
@@ -34,14 +34,14 @@ La solución tiene que actuar el motor en tres casos:
 
 El siguiente programa es muy avanzado, pero nos da idea de las posibilidades del sensor de inclinación Lego WeDo
 
-{% youtube %}https//www.youtube.com/embed/q6d9vtaSGgA{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=q6d9vtaSGgA{% endyoutube %}
 <script type="text/javascript">var feedback52_93text = "Solución";</script><input type="button" name="toggle-feedback-52_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
 
 En el siguiente [enlace](https://scratch.mit.edu/projects/583760/) o bien [en este archivo](laberinto.sb2) (sb2 - 82651 <abbr lang="en" title="Bytes">B</abbr>).
 
-<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/583760/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=583760/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 
 El programa principal lo tiene la pelota que interactua con el laberinto de color azul, luego según el sensor de inclinación y según toque el color azul, cambia los valores de velocidad:
 

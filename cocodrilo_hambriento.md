@@ -17,7 +17,7 @@ En[ este enlace ](http://ro-botica.com/pdf/WeDo/Hungry%20Alligator.pdf)tenemos e
 
 De momento el enunciado que proponemos será que cierre la boca si se introduce un objeto y al cabo de 1 segundo que la abra para poder liberar el objeto:
 
-{% youtube %}https//www.youtube.com/embed/VX8i0Pg9DxE{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=VX8i0Pg9DxE{% endyoutube %}
 <script type="text/javascript">var feedback1_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-1_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
 ### Retroalimentación
@@ -27,7 +27,7 @@ De momento el enunciado que proponemos será que cierre la boca si se introduce 
 
 Que no pare de masticar mientres esté el objeto
 
-{% youtube %}https//www.youtube.com/embed/vbzcMDYyoRk{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=vbzcMDYyoRk{% endyoutube %}
 <script type="text/javascript">var feedback7_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-7_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
 ### Retroalimentación

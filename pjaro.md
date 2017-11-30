@@ -13,7 +13,7 @@ Aquí lo tienes en [formato PDF](http://ro-botica.com/pdf/WeDo/Flying%20Bird.pdf
 
 Nuestra propuesta es una interacción con sonido y con disfraz del objeto en Scratch:
 
-{% youtube %}https//www.youtube.com/embed/Yb4DpYhfSaY{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=Yb4DpYhfSaY{% endyoutube %}
 <script type="text/javascript">var feedback11_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-11_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
 ### Retroalimentación

@@ -32,5 +32,5 @@ Esto se ve mejor con un breve tutorial [[en Flash] ](http://aularagon.catedu.es/
 
 O aquí en forma de video
 
-{% youtube %}https//www.youtube.com/embed/XXQmcl9AK8s{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=XXQmcl9AK8s{% endyoutube %}
 ![](img/legowedoscratch1.png)

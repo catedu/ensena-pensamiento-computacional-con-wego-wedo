@@ -19,7 +19,7 @@ Otra cosa: Si no se construye bien, el motor va frenado y no va.
 
 Nuestra propuesta como hemos advertido antes es utilizando el sensor inclinación: Según su valor inclinado hacia arriba o hacia abajo, así actua la grua levantando al gigante:
 
-{% youtube %}https//www.youtube.com/embed/0JXhyMYaL_g{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=0JXhyMYaL_g{% endyoutube %}
 <script type="text/javascript">var feedback32_93text = "Solución";</script><input type="button" name="toggle-feedback-32_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -31,4 +31,4 @@ La puedes descargar [aquí](gigante.sb2) (sb2 - 54.07 <abbr lang="en" title="Kil
 
 Es no levantarlo con el sensor sino con el teclado:
 
-{% youtube %}https//www.youtube.com/embed/oKlWSBhQL5M{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=oKlWSBhQL5M{% endyoutube %}

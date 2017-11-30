@@ -17,7 +17,7 @@ En formato [PDF en este enlace](http://ro-botica.com/pdf/WeDo/Smart%20Spinner.pd
 
 La peonza tiene que girar cuando la distancia sea tal que detecte que esta encima de una superficie
 
-{% youtube %}https//www.youtube.com/embed/aSZFzGtTetg{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=aSZFzGtTetg{% endyoutube %}
 <script type="text/javascript">var feedback13_93text = "Solución";</script><input type="button" name="toggle-feedback-13_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -29,4 +29,4 @@ El valor de 5 es arbritario, es la distancia tal que detecte que hay una superfi
 
 Es que interactue con elementos del Scratch como vemos en el vídeo
 
-{% youtube %}https//www.youtube.com/embed/pZGX6fgNY7k{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=pZGX6fgNY7k{% endyoutube %}

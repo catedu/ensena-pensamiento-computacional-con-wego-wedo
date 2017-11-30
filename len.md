@@ -13,7 +13,7 @@ En [formato PDF](http://ro-botica.com/pdf/WeDo/Roaring%20Lion.pdf) y en [Dropbox
 
 Realizar un programa que al inclinar el sensor de inclinación, el león se levante y ruga. Al inclinarlo hacia abajo, el león se tumbe:
 
-{% youtube %}https//www.youtube.com/embed/aQSpXdlQeG4{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=aQSpXdlQeG4{% endyoutube %}
 <script type="text/javascript">var feedback26_93text = "Solución";</script><input type="button" name="toggle-feedback-26_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -41,5 +41,5 @@ Te esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta,
 
 O aquí en Scratch:[ https://scratch.mit.edu/projects/38093952/](https://scratch.mit.edu/projects/38093952/)
 
-<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/38093952/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=38093952/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 

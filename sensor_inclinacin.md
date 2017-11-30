@@ -11,7 +11,7 @@ En estos ejemplos, el objetivo no es la creatividad de la construcción, sino el
 
 Que se mueva la mariposa en función del sensor de inclinación de derecha a izquierda tal y como se muestra en el vídeo. La mariposa es de la biblioteca predeterminada de objetos de Scratch:
 
-{% youtube %}https//www.youtube.com/embed/RiyhrOUkjmc{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=RiyhrOUkjmc{% endyoutube %}
 <script type="text/javascript">var feedback6_93text = "Solución";</script><input type="button" name="toggle-feedback-6_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -20,7 +20,7 @@ Que se mueva la mariposa en función del sensor de inclinación de derecha a izq
 - [En este archivo](mariposa-inclinacion.sb2) (sb2 - 49.74 <abbr lang="en" title="KiloBytes">KB</abbr>)., corregido lo anterior.
 - o aquí embebido:
 
-<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/1789934/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=1789934/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 
 ![](img/mariposa.1.png)
 el sensor (es una chorrada, pero queda guay) tiene este código

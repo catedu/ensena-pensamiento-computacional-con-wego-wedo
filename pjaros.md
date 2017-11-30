@@ -19,7 +19,7 @@ Lo podemos descargar[ aquí en pdf ](http://ro-botica.com/pdf/WeDo/Dancing%20Bir
 
 Que los pájaros bailen en un sentido y luego en otro
 
-{% youtube %}https//www.youtube.com/embed/OeQmYrrp61E{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=OeQmYrrp61E{% endyoutube %}
 <script type="text/javascript">var feedback5_93text = "Solución";</script><input type="button" name="toggle-feedback-5_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -30,12 +30,12 @@ Que los pájaros bailen en un sentido y luego en otro
 
 Se acerca la mano y los pájaros dan vueltas
 
-{% youtube %}https//www.youtube.com/embed/6AWfzHgvX3I{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=6AWfzHgvX3I{% endyoutube %}
 Se acerca la mano y hacen giro hacia un sentido y luego otro
 
-{% youtube %}https//www.youtube.com/embed/gxkK-kD4_9k{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=gxkK-kD4_9k{% endyoutube %}
 Interacción con algún objeto de Scratch
 
-{% youtube %}https//www.youtube.com/embed/b5oM7UWnNHM{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=b5oM7UWnNHM{% endyoutube %}
 
 

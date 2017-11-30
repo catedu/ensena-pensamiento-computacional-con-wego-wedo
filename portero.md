@@ -21,7 +21,7 @@ Podemos introducir programación un poco más avanzada, con envío de mensajes d
 <ul>
 - Si marca gol, se muestra una pelota durante unos segundos
 
-{% youtube %}https//www.youtube.com/embed/tRoNmoAuG2I{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=tRoNmoAuG2I{% endyoutube %}
 Ampliación: Poner un marcador (variable que contabilice los goles)
 
 <script type="text/javascript">var feedback16_93text = "Solución";</script><input type="button" name="toggle-feedback-16_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
@@ -43,7 +43,7 @@ El mensaje es recogido por el objeto pelota que tiene este programa:
 
 Otra propuesta es que el portero se mueva según las fechas izquierda y derecha, de esta manera juegan dos jugadores
 
-{% youtube %}https//www.youtube.com/embed/7z6DfSoyKLA{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=7z6DfSoyKLA{% endyoutube %}
 <script type="text/javascript">var feedback18_93text = "Solución";</script><input type="button" name="toggle-feedback-18_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
@@ -59,4 +59,4 @@ El programa te lo puedes [descargar aquí](portero_PARA_2_PERSONA_copy.sb2) (sb2
 
 Uno el portero, y otro dispara !
 
-{% youtube %}https//www.youtube.com/embed/UVWlL5hi33U{% endyoutube %}
+{% youtube %}https//www.youtube.com/watch?v=UVWlL5hi33U{% endyoutube %}
