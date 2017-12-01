@@ -12,8 +12,12 @@ Esta mariposa tiene que cambiar de disfraz según el valor del sensor de distanc
 %accordion%Solución%accordion%
 
 - [En este enlace](https://scratch.mit.edu/projects/1789931/) aunque algunos bloques hay que sustituirlos por el equivalente en castellano
-- [En este archivo](mariposa2.sb2) (sb2 - 38.27 <abbr lang="en" title="KiloBytes">KB</abbr>). (corregido lo anterior)
-- O aquí embebido:
+
+[![](/assets/Selección_039.png)
+](https://scratch.mit.edu/projects/1789931/)
+
+- [En este archivo](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M3/mariposa2.sb2) (sb2 - 38.27 <abbr lang="en" title="KiloBytes">KB</abbr>). (corregido lo anterior)
+
 
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=1789931/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 

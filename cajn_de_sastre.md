@@ -5,13 +5,14 @@ En esta página[ http://www.wedobots.com/](http://www.wedobots.com/) puedes enc
 
 [<img src="http://4.bp.blogspot.com/-4Mlx8SNvbig/VB41BeWusvI/AAAAAAAAOnk/O5JxLJ1Wy9U/s1600/wedobotslogo3.png" width="562" height="147" />](http://www.wedobots.com/)
 
-[<img src="legowedobots.png" width="516" height="587" />](http://www.wedobots.com/)
+[![](/img/legowedobots.png)](http://www.wedobots.com/)
 
 Por ejemplo el **León Marino**:
 
 [Instrucciones de montaje](https://picasaweb.google.com/111228734087626356470/LEGOWeDoSeaLion?authuser=0&amp;authkey=Gv1sRgCNvRntfgusv7Pw&amp;feat=directlink)
 
 {% youtube %}https//www.youtube.com/watch?v=VJUYPehtW24{% endyoutube %}
+
 ## Pero aún hay más!!! 
 
 Unos cuantos ejemplos encontrados en Youtube:

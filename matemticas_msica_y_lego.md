@@ -27,7 +27,7 @@ A = m + n*distancia
 
 Luego **A= 48 + 0.24*distancia**
 
-[Descarga del programa](piano.sb2) (sb2 - 54.09 <abbr lang="en" title="KiloBytes">KB</abbr>).
+[Descarga del programa](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M3/piano.sb2) (sb2 - 54.09 <abbr lang="en" title="KiloBytes">KB</abbr>).
 
 ![](img/piano.png)
 Fuente [LabDocente](http://labdocente.pe/2016/01/19/robotica-con-lego-wedo-el-sensor-de-distancia/)
