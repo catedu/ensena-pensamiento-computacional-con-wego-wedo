@@ -43,13 +43,8 @@ El siguiente programa es muy avanzado, pero nos da idea de las posibilidades del
 %accordion%Solución%accordion%
 
 En el siguiente [enlace](https://scratch.mit.edu/projects/583760/) o bien [en este archivo](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M3/laberinto.sb2) (sb2 - 82651 <abbr lang="en" title="Bytes">B</abbr>).
-
 [![](/assets/Selección_038.png)](https://scratch.mit.edu/projects/583760/)
-
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=583760/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
-
 El programa principal lo tiene la pelota que interactua con el laberinto de color azul, luego según el sensor de inclinación y según toque el color azul, cambia los valores de velocidad:
-
 ![](img/laberinto.png)
-
 %/accordion%
