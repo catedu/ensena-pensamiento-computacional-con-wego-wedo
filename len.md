@@ -22,7 +22,7 @@ La solución te lo puedes [descargar aquí](http://aularagon.catedu.es/materiale
 ![](img/leon.png)
 se ha reducido la velocidad pues iba muy rápido y desmontaba la construcción
 
-y sí... ya sé que no es un rugido, es un ladrido, pero no hay otra cosa en la biblioteca, y mi voz no es muy grave
+_y sí... ya sé que no es un rugido, es un ladrido, pero no hay otra cosa en la biblioteca, y mi voz no es muy grave_
 
 %/accordion%
 
