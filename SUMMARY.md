@@ -39,4 +39,5 @@
 * [Matemáticas, música y Lego](matemticas_msica_y_lego.md)
 * [Cajón de sastre](cajn_de_sastre.md)
 * [Tu cajón de sastre](tu_cajn_de_sastre.md)
+* [Creditos](creditos.md)
 
