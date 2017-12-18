@@ -17,15 +17,7 @@ Vamos a buscar algún juego sencillo, por ejemplo el típico de vuelo esquivando
 
 ![](img/fly3.png)
 
-elegimos alguna propuesta interesante:
-
-![](img/fly4.png)
-
-Corresponde al siguiente proyecto:
-
-[https://scratch.mit.edu/projects/113582791/](https://scratch.mit.edu/projects/113582791/)[](https://scratch.mit.edu/projects/113582791/)
-
-[![](/assets/Selección_040.png)](https://scratch.mit.edu/projects/113582791/)
+elegimos alguna propuesta interesante, [elegimos este](https://scratch.mit.edu/projects/113582791/):
 ## Propuesta
 Se nos ocurre que en vez que el gato suba o baje según la posición del ratón, que sea con nuestro sensor distancia de LEGO WEDO :
 
