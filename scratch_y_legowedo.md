@@ -6,7 +6,7 @@ LEGO® WEDO permite su programación de dos formas:
 - Software propio[ LEGO Wedo](http://www.ro-botica.com/Producto/Software-LEGO-Education-WeDo-y-12-actividades/)
 - Enlazado con [**SCRACTH**](https://scratch.mit.edu/)
 
-A pesar de que el software propio es muy intuitivo, EN ESTE CURSO NO LO LO UTILIZAREMOS, pues consideramos la opción de utilizar** Lego WEDO con Scracth** ([desarrollada por el mimo equipo de Scratch](http://scratched.gse.harvard.edu/resources/wedo-and-scratch)) **ES LA OPCIÓN MÁS RECOMENDADA pues utilizamos **
+A pesar de que el software propio es muy intuitivo, EN ESTE CURSO NO LO LO UTILIZAREMOS, pues consideramos la opción de utilizar** Lego WEDO con Scracth** ([desarrollada por el mismo equipo de Scratch](http://scratched.gse.harvard.edu/resources/wedo-and-scratch)) **ES LA OPCIÓN MÁS RECOMENDADA pues utilizamos **
 
 - **Un software libre**
 - **Un lenguage genérico y universal**
