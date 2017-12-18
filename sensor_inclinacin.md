@@ -20,13 +20,8 @@ Que se mueva la mariposa en función del sensor de inclinación de derecha a izq
 
 [![](/assets/Selección_037.png)](https://scratch.mit.edu/projects/1789934/)
 
-
-
 - [En este archivo](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M3/mariposa-inclinacion.sb2) (sb2 - 49.74 <abbr lang="en" title="KiloBytes">KB</abbr>)., corregido lo anterior.
-
-
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=1789934/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
-
 ![](img/mariposa.1.png)
 
 El sensor (es una chorrada, pero queda guay) tiene este código
