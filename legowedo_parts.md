@@ -2,13 +2,16 @@
 # LegoWedo parts
 
 Las piezas más fundamentales que tiene este kit son:
-<img src="https://wiki.scratch.mit.edu/w/images/Legomotor.jpg" width="285" height="203" />
 
+<img src="https://wiki.scratch.mit.edu/w/images/Legomotor.jpg" width="285" height="203" />
 ** Motor**Permite que las cosas se muevan evidentemente ;)
 
 
-<img src="https://wiki.scratch.mit.edu/w/images/LEGO-WeDo-distance-sensor.jpg" width="284" height="197" />
+<hr style="color: #0056b2;" />
 
+
+
+<img src="https://wiki.scratch.mit.edu/w/images/LEGO-WeDo-distance-sensor.jpg" width="284" height="197" />
 **  Sensor de distancia.**detecta la distancia del objeto que está frente a él. Da valores desde 0 a 100, el máximo alrededor de 30 cm). El origen 0 está algo alejado
 
 
