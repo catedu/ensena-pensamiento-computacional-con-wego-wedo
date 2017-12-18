@@ -14,9 +14,9 @@ Las piezas más fundamentales que tiene este kit son:
 <img src="https://wiki.scratch.mit.edu/w/images/LEGO-WeDo-distance-sensor.jpg" width="284" height="197" />
 **  Sensor de distancia.**detecta la distancia del objeto que está frente a él. Da valores desde 0 a 100, el máximo alrededor de 30 cm). El origen 0 está algo alejado
 
+<hr style="color: #0056b2;" />
 
-<img src="https://wiki.scratch.mit.edu/w/images/Tiltsensor.jpg" width="284" height="197" 
-
+<img src="https://wiki.scratch.mit.edu/w/images/Tiltsensor.jpg" width="284" height="197"  />
 **Sensor de inclinación** Devuelve estos valores segúnla inclinación:<ul>
 - 0 = Sin inclinación, horizontal
 - 1 = Inclinado hacia abajo
