@@ -4,7 +4,7 @@
 Las piezas más fundamentales que tiene este kit son:
 
 <img src="https://wiki.scratch.mit.edu/w/images/Legomotor.jpg" width="285" height="203" />
-** Motor**Permite que las cosas se muevan evidentemente ;)
+** Motor** Permite que las cosas se muevan evidentemente ;)
 
 
 <hr style="color: #0056b2;" />
@@ -17,7 +17,7 @@ Las piezas más fundamentales que tiene este kit son:
 <hr style="color: #0056b2;" />
 
 <img src="https://wiki.scratch.mit.edu/w/images/Tiltsensor.jpg" width="284" height="197"  />
-**Sensor de inclinación** Devuelve estos valores segúnla inclinación:<ul>
+**Sensor de inclinación** Devuelve estos valores según la inclinación:<ul>
 - 0 = Sin inclinación, horizontal
 - 1 = Inclinado hacia abajo
 - 2 = inclinado hacia la derecha
@@ -27,7 +27,6 @@ Las piezas más fundamentales que tiene este kit son:
 
 
 <img src="https://wiki.scratch.mit.edu/w/images/Legowedohub.jpg" width="290" height="279" />
-
 **Interface**:Conexión de los anteriores componentes al ordenador
 
 
