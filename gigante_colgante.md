@@ -35,6 +35,6 @@ La puedes descargar [aquí](http://aularagon.catedu.es/materialesaularagon2013/L
 
 ## Otra propuesta
 
-Es no levantarlo con el sensor sino con el teclado:
+Levantarlo con el teclado:
 
 {% youtube %}https//www.youtube.com/watch?v=oKlWSBhQL5M{% endyoutube %}
