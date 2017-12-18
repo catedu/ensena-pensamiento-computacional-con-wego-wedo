@@ -28,9 +28,7 @@ Corresponde al siguiente proyecto:
 [![](/assets/Selección_040.png)](https://scratch.mit.edu/projects/113582791/)
 
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/watch?v=113582791/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
-
 ## Propuesta
-
 Se nos ocurre que en vez que el gato suba o baje según la posición del ratón, que sea con nuestro sensor distancia de LEGO WEDO :
 
 {% youtube %}https//www.youtube.com/watch?v=tvcSWZ_IWMI{% endyoutube %}
