@@ -1,4 +1,3 @@
-
 # ¿Qué es LEGO WeDo?
 
 Es un set de LEGO® que permite la construcción de 12 diferentes actividades (y las que permita la imaginación) para introducir al alumno en robótica

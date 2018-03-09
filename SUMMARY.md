@@ -4,13 +4,14 @@
 
 ## 1. ¿Qué es Lego Wedo?
 
-* [Introducción](index0.md)
-* [Un poco de orden... el pensamiento computacional](un_poco_de_orden_el_pensamiento_computacional.md)
-* [¿Qué es LEGO WeDo?](qu_es_lego_wedo.md)
+* [1.1 Introducción](index0.md)
+* [1.2 Un poco de orden... el pensamiento computacional](un_poco_de_orden_el_pensamiento_computacional.md)
+* [1.3 ¿Qué es LEGO WeDo?](qu_es_lego_wedo.md)
+* [1.4 Offline Scratch-LegoWedo](14-offline-scratch-legowedo.md)
+* [LegoWedo parts](legowedo_parts.md)
 * [Scratch y LegoWeDo](scratch_y_legowedo.md)
   * [Registrarse en Scratch](registrarse_en_scratch.md)
   * [Instalar Plugin](instalar_plugin.md)
-* [LegoWedo parts](legowedo_parts.md)
 * [Instrucciones LegoWedo parts](instrucciones_legowedo_parts.md)
 
 ## 2. Construcciones
