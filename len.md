@@ -28,11 +28,14 @@ _y sí... ya sé que no es un rugido, es un ladrido, pero no hay otra cosa en la
 
 ## Propuesta
 
-Esta propuesta de la página web [http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html](http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html) propone poner el sensor distancia en el hocico
+La idea es de [esta página web](http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html), propone poner el sensor distancia en el hocico
 
 <img src="http://4.bp.blogspot.com/-tSDt9KhTxgE/VIrjVW3BdAI/AAAAAAAABhA/anBifZWH1t4/s1600/cabeza.png" width="320" height="253" />
 
 De esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta, lanza un rugido y se vuelve a tumbar
+
+{% youtube %}https://www.youtube.com/watch?v=_IbYoL0eTvw{% endyoutube %}
+
 
 %accordion%Solución%accordion%
 
