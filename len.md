@@ -32,13 +32,17 @@ La idea es de [esta página web](http://dunbit.blogspot.com.es/2014/12/aprender-
 
 <img src="http://4.bp.blogspot.com/-tSDt9KhTxgE/VIrjVW3BdAI/AAAAAAAABhA/anBifZWH1t4/s1600/cabeza.png" width="320" height="253" />
 
-De esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta, lanza un rugido y se vuelve a tumbar
+De esta manera ya le podemos dar más interacción: 
 
 {% youtube %}https://www.youtube.com/watch?v=_IbYoL0eTvw{% endyoutube %}
 
-
 %accordion%Solución%accordion%
 
+Una solución es esta:
+
+![](/assets/2018-03-20 21_21_12-Scratch 2 Offline Editor.png)
+
+O esta:
 <img src="http://4.bp.blogspot.com/-uSoic7LRT6s/VIrmXpyYItI/AAAAAAAABhM/GV7-0jFdnGw/s1600/scratchleon.JPG" width="289" height="219" />
 
 O aquí en Scratch:[ https://scratch.mit.edu/projects/38093952/](https://scratch.mit.edu/projects/38093952/)
