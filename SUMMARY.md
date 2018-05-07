@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [Chat robotica educativa Aragón](chat-robotica-educativa-aragon.md)
 
 ## 1. ¿Qué es Lego Wedo?
 
