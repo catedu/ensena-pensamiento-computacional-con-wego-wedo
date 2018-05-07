@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [Chat robotica educativa Aragón](chat-robotica-educativa-aragon.md)
 
 ## 1. ¿Qué es Lego Wedo?
 
@@ -41,5 +40,7 @@
 * [3.6 Matemáticas, música y Lego](matemticas_msica_y_lego.md)
 * [3.7 Cajón de sastre](cajn_de_sastre.md)
 * [3.8 Tu cajón de sastre](tu_cajn_de_sastre.md)
+
+* [Chat robotica educativa Aragón](chat-robotica-educativa-aragon.md)
 * [Creditos](creditos.md)
 
