@@ -17,25 +17,32 @@ Realizar un programa que al inclinar el sensor de inclinación, el león se leva
 
 %accordion%Solución%accordion%
 
-La solución te lo puedes [descargar aquí](leon.sb2) (sb2 - 61.34 <abbr lang="en" title="KiloBytes">KB</abbr>). y el código es el siguiente:
+La solución te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/leon.sb2) (sb2 - 61.34 <abbr lang="en" title="KiloBytes">KB</abbr>). y el código es el siguiente:
 
 ![](img/leon.png)
 se ha reducido la velocidad pues iba muy rápido y desmontaba la construcción
 
-y sí... ya sé que no es un rugido, es un ladrido, pero no hay otra cosa en la biblioteca, y mi voz no es muy grave
+_y sí... ya sé que no es un rugido, es un ladrido, pero no hay otra cosa en la biblioteca, y mi voz no es muy grave_
 
 %/accordion%
 
 ## Propuesta
 
-Esta propuesta de la página web [http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html](http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html) propone poner el sensor distancia en el hocico
+La idea es de [esta página web](http://dunbit.blogspot.com.es/2014/12/aprender-leon-lego-scratch-robotica.html), propone poner el sensor distancia en el hocico
 
 <img src="http://4.bp.blogspot.com/-tSDt9KhTxgE/VIrjVW3BdAI/AAAAAAAABhA/anBifZWH1t4/s1600/cabeza.png" width="320" height="253" />
 
-Te esta manera ya le podemos dar más interacción: Si hay un objeto, se sienta, lanza un rugido y se vuelve a tumbar
+De esta manera ya le podemos dar más interacción: 
+
+{% youtube %}https://www.youtube.com/watch?v=_IbYoL0eTvw{% endyoutube %}
 
 %accordion%Solución%accordion%
 
+Una solución es esta:
+
+![](/assets/2018-03-20 21_21_12-Scratch 2 Offline Editor.png)
+
+O esta:
 <img src="http://4.bp.blogspot.com/-uSoic7LRT6s/VIrmXpyYItI/AAAAAAAABhM/GV7-0jFdnGw/s1600/scratchleon.JPG" width="289" height="219" />
 
 O aquí en Scratch:[ https://scratch.mit.edu/projects/38093952/](https://scratch.mit.edu/projects/38093952/)

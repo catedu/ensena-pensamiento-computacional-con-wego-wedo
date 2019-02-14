@@ -1,9 +1,8 @@
-
-# M3 la creatividad
+# 3 La creatividad
 
 **"... el aburrimiento es la antesala de la creatividad"**
 
 En este módulo te vamos a invitar a saltarnos las construcciones típicas
 
-<img src="http://agenciasanluis.com/notas/wp-content/uploads/2015/04/DSC_0669_resize-Copy.jpg" width="599" height="342" />
+![](/assets/2017-12-18 16_00_16-Hands photo by Amaury Salas %28@eseamau%29 on Unsplash.png)[Photo by Amaury Salas](https://unsplash.com/photos/IhXrWDckZOQ)
 

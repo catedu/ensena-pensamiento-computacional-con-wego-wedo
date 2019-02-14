@@ -28,7 +28,7 @@ Ampliación: Poner un marcador (variable que contabilice los goles)
 
 %accordion%Solución%accordion%
 
-[Aquí tienes el programa descargado](portero.sb2) (sb2 - 145643 <abbr lang="en" title="Bytes">B</abbr>). en formato sb2
+[Aquí tienes el programa descargado](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/portero.sb2) (sb2 - 145643 <abbr lang="en" title="Bytes">B</abbr>). en formato sb2
 
 Son dos objetos, la chica (que tiene dos disfraces) y la pelota:
 
@@ -53,7 +53,8 @@ Otra propuesta es que el portero se mueva según las fechas izquierda y derecha,
 Aquí en vez de mover contínuamente el portero, es según las flechas:
 
 ![](img/portero4.png)
-El programa te lo puedes [descargar aquí](portero_PARA_2_PERSONA_copy.sb2) (sb2 - 145712 <abbr title="Bytes" lang="en">B</abbr>).
+
+El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/LegoWedo/M2/portero_PARA_2_PERSONA_copy.sb2) (sb2 - 145712 <abbr title="Bytes" lang="en">B</abbr>).
 
 %/accordion%
 
