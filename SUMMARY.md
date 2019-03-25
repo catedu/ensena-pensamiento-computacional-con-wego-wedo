@@ -8,11 +8,6 @@
 * [1.2 Un poco de orden... el pensamiento computacional](un_poco_de_orden_el_pensamiento_computacional.md)
 * [1.3 ¿Qué es LEGO WeDo?](qu_es_lego_wedo.md)
 * [1.4 Offline Scratch-LegoWedo](14-offline-scratch-legowedo.md)
-<!--
-* [1.5 OnlineScratch-LegoWeDo](scratch_y_legowedo.md)
-  * [Registrarse en Scratch](registrarse_en_scratch.md)
-  * [Instalar Plugin](instalar_plugin.md)
-  -->
 * [1.5 LegoWedo parts](legowedo_parts.md)
 * [1.6 Instrucciones LegoWedo parts](instrucciones_legowedo_parts.md)
 
